@@ -2340,7 +2340,7 @@
 	"ze_rt4_hessel_valley"
 	{
 		"workshop_id" "3331546631"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_rt4_hessel_valley"
 		"updatedname" "ze_rt4_hessel_valley"
 		"OnlyNominate" "1"
@@ -5026,7 +5026,7 @@
 	"ze_changing_room_version:cn"
 	{
 		"workshop_id" "3594544809"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_changing_room_version:cn"
 		"updatedname" "ze_changing_room_version:cn"
 		"OnlyNominate" "0"
@@ -5322,7 +5322,7 @@
 	"ze_fate/stay_night_ubw"
 	{
 		"workshop_id" "3615480260"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_fate/stay_night_ubw"
 		"updatedname" "ze_fate/stay_night_ubw"
 		"OnlyNominate" "0"
@@ -5434,7 +5434,7 @@
 	"ze_workcell_cancer(demo)"
 	{
 		"workshop_id" "3662352637"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_workcell_cancer(demo)"
 		"updatedname" "ze_workcell_cancer(demo)"
 		"OnlyNominate" "0"
