@@ -1041,7 +1041,7 @@
 	"ze_surf_sahok"
 	{
 		"workshop_id" "3236908736"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_surf_sahok"
 		"updatedname" "ze_surf_sahok"
 		"search" "密室滑翔"
@@ -2340,7 +2340,7 @@
 	"ze_rt4_hessel_valley"
 	{
 		"workshop_id" "3331546631"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_rt4_hessel_valley"
 		"updatedname" "ze_rt4_hessel_valley"
 		"OnlyNominate" "1"
@@ -3121,7 +3121,7 @@
 	"ze_gris"
 	{
 		"workshop_id" "3389982625"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_gris"
 		"updatedname" "ze_gris"
 		"OnlyNominate" "1"
@@ -3655,7 +3655,7 @@
 	"ze_Obf_Rampage_v24"
 	{
 		"workshop_id" "3456114547"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_obf_rampage_v24"
 		"updatedname" "ze_obf_rampage_v24"
 		"OnlyNominate" "1"
@@ -4002,7 +4002,7 @@
 	"ze_chroma"
 	{
 		"workshop_id" "3486786291"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_chroma"
 		"updatedname" "ze_chroma"
 		"OnlyNominate" "0"
@@ -5026,7 +5026,7 @@
 	"ze_changing_room_version:cn"
 	{
 		"workshop_id" "3594544809"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_changing_room_version:cn"
 		"updatedname" "ze_changing_room_version:cn"
 		"OnlyNominate" "0"
@@ -5210,7 +5210,7 @@
 	"ze_ffvii_cosmo_canyon_v2"
 	{
 		"workshop_id" "3625425328"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_ffvii_cosmo_canyon_v2"
 		"updatedname" "ze_ffvii_cosmo_canyon_v2"
 		"OnlyNominate" "0"
