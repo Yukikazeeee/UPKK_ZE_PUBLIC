@@ -2797,7 +2797,7 @@
 	"ze_hold2_boring_z"
 	{
 		"workshop_id" "3370478043"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_hold2_boring_z"
 		"updatedname" "ze_hold2_boring_z"
 	}
@@ -3003,7 +3003,7 @@
 	"ze_stalker_ultimate_z"
 	{
 		"workshop_id" "3383028817"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_stalker_ultimate_z"
 		"updatedname" "ze_stalker_ultimate_z"
 		"OnlyNominate" "1"
@@ -3189,7 +3189,7 @@
 	"ze_bh3rd_babel_z"
 	{
 		"workshop_id" "3399954774"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_bh3rd_babel_z"
 		"updatedname" "ze_bh3rd_babel_z"
 		"OnlyNominate" "1"
@@ -3220,7 +3220,7 @@
 	"ze_ffvii_mako_reactor_v5_3"
 	{
 		"workshop_id" "3400128277"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_ffvii_mako_v5_3"
 		"updatedname" "ze_ffvii_mako_reactor_v5_3"
 		"OnlyNominate" "1"
@@ -3251,7 +3251,7 @@
 	"ze_dnd_hydra_z"
 	{
 		"workshop_id" "3406009899"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_dnd_hydra_z"
 		"updatedname" "ze_dnd_hydra_z"
 		"OnlyNominate" "1"
@@ -3298,7 +3298,7 @@
 	"ze_sandle_pdd"
 	{
 		"workshop_id" "3412262982"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_sandle_pdd"
 		"updatedname" "ze_sandle_pdd"
 		"OnlyNominate" "1"
@@ -3383,7 +3383,7 @@
 	"ze_bh3rd_nagazoracity_z"
 	{
 		"workshop_id" "3423221710"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_bh3rd_nagazoracity_z"
 		"updatedname" "ze_bh3rd_nagazoracity_z"
 		"OnlyNominate" "1"
@@ -3446,7 +3446,7 @@
 	"ze_bh3rd_cyberpunk_z"
 	{
 		"workshop_id" "3427624001"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_bh3rd_cyberpunk_z"
 		"updatedname" "ze_bh3rd_cyberpunk_z"
 		"OnlyNominate" "1"
@@ -3492,7 +3492,7 @@
 	"ze_blood_castle_z"
 	{
 		"workshop_id" "3434987752"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_blood_castle_z"
 		"updatedname" "ze_blood_castle_z"
 	}
@@ -3554,7 +3554,7 @@
 	"ze_legend_of_astrum_z"
 	{
 		"workshop_id" "3444378464"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_legend_of_astrum_z"
 		"updatedname" "ze_legend_of_astrum_z"
 		"OnlyNominate" "1"
@@ -3661,7 +3661,7 @@
 	"ze_best_korea"
 	{
 		"workshop_id" "3479418908"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_best_korea"
 		"updatedname" "ze_best_korea"
 		"OnlyNominate" "1"
